@@ -1,0 +1,6 @@
+1. Nguyen Tuan Kiet - coder, design document
+2. Ly Nguyen - tutorial document, tester
+3. Dang Cong Hao - tutorial powerpoint, tester
+4. Nguyen Ngoc Thien - tester, prepare data
+5. Ho Dac Quang - tester
+6. Nguyen Thanh Phong - tester
