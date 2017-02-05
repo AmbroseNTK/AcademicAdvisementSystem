@@ -37,3 +37,4 @@ while(flag):
     answer = myTools.intInput("\n1 - Select another function\n2 - Exit\n")  #Continue or Exit
     if(answer != 1):
         flag = False
+    #Finished
